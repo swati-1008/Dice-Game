@@ -1,0 +1,46 @@
+body {
+  background-color: #393E46;
+}
+
+footer {
+  text-align: center;
+}
+
+h1 {
+  color: #4ECCA3;
+  font-family: 'Lobster', cursive;
+  font-size: 8rem;
+  font-weight: bold;
+  margin: 30px;
+  text-shadow: 5px 0 #232931;
+}
+
+img {
+  width: 80%;
+}
+
+p {
+  color: #4ECCA3;
+  font-family: 'Sacramento', cursive;
+  font-size: 2rem;
+}
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+.foot {
+  font-size: 3rem;
+  font-weight: 300;
+}
+
+.invisible {
+  visibility: hidden;
+}
